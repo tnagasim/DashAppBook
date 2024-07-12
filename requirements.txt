@@ -1,7 +1,8 @@
+dash_bootstrap_components
 ipython
 jupyter
 matplotlib
-plotly
 pandas
+plotly
 pytest
 scikit-learn
